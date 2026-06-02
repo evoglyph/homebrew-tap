@@ -7,13 +7,13 @@ Homebrew tap for [evoglyph](https://evoglyph.com/) — a local-first, on-device 
 One step:
 
 ```sh
-brew install --cask lucasmccomb/tap/evoglyph
+brew install --cask evoglyph/tap/evoglyph
 ```
 
 Two steps:
 
 ```sh
-brew tap lucasmccomb/tap
+brew tap evoglyph/tap
 brew install --cask evoglyph
 ```
 
