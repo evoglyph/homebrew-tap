@@ -1,7 +1,7 @@
 cask "evoglyph" do
-  version "0.3.2"
+  version "0.3.3"
   # version + sha256 are bumped by the app's release pipeline (Scripts/release.sh).
-  sha256 "c7f97e04385d977e5bc432b2eab5ec55ecbc0fbedf9543185d26bede1b8140a7"
+  sha256 "a2ffc1eafc37ee93e9a6b2788a5657187f7933a83e1cf6d7e11772abc2878979"
 
   url "https://downloads.evoglyph.com/evoglyph-#{version}.zip"
   name "evoglyph"
